@@ -5,6 +5,7 @@
 */
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
+import scripts.crafttweaker.recipeUtil;
 
 /*
     Shaped Recipes
